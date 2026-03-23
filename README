@@ -1,0 +1,13 @@
+# GitDemo Activity
+
+## Project Folder Structure
+- `/src`: Contains all source code.
+- `/assets`: Stores images, icons, and static files.
+- `/docs`: Holds documentation and lab notes.
+
+## Component Layering Strategy
+We are using a **Separation of Concerns (SoC)** approach:
+
+- **Presentation Layer:** Handles UI components and design.
+- **Logic Layer:** Manages application logic and data processing.
+- **Data Layer:** Handles API calls and data storage.
